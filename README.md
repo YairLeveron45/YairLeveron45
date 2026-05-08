@@ -79,9 +79,9 @@ Despliegue de aplicaciones utilizando S3, RDS, Load Balancer y Docker.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YairLeveron45&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=YairLeveron45&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YairLeveron45&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YairLeveron45&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
 
 </div>
 
