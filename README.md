@@ -36,4 +36,6 @@ Implementación de syscalls personalizadas y daemon de monitoreo en Linux.
 - Correo: Yahirlopez380@gmail.com
 
 
+## 🐍 Snake Animation
+
 ![Snake animation](https://github.com/YairLeveron45/YairLeveron45/blob/output/github-contribution-grid-snake.svg)
