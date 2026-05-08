@@ -37,6 +37,5 @@ Implementación de syscalls personalizadas y daemon de monitoreo en Linux.
 
 ---
 
-## 🐍 Snake Animation
 
 ![Snake animation](https://github.com/YairLeveron45/YairLeveron45/blob/output/github-contribution-grid-snake.svg)
