@@ -34,3 +34,6 @@ Implementación de syscalls personalizadas y daemon de monitoreo en Linux.
 
 - LinkedIn: www.linkedin.com/in/estiben-yair-lopez-leveron-207724145
 - Correo: Yahirlopez380@gmail.com
+
+
+![Snake animation](https://github.com/YairLeveron45/YairLeveron45/blob/output/github-contribution-grid-snake.svg)
