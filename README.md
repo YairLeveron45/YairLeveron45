@@ -1,7 +1,6 @@
 # Hola, soy Yair Leveron 👋
 
 💻 Estudiante de Ingeniería en Sistemas  
-⚡ Interesado en Backend, Linux, AWS y Ciberseguridad  
 
 ---
 
