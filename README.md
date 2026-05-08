@@ -20,8 +20,8 @@ player = {
     "clase"      : "Backend Developer",
     "nivel"      : "Ingeniería en Sistemas",
     "ubicación"  : "Guatemala 🇬🇹",
-    "habilidades": ["Backend", "Linux Kernel", "Cloud", "APIs REST", "Automatización"],
-    "estado"     : "⚡ Siempre aprendiendo, siempre construyendo"
+    "habilidades": ["Backend", "Linux Kernel", "APIs REST", "Automatización"],
+    "estado"     : "Siempre aprendiendo"
 }
 ```
 
@@ -29,26 +29,26 @@ player = {
 
 ---
 
-## 🎮 `TECH TREE — SKILLS UNLOCKED`
+##  ` SKILLS UNLOCKED`
 
 <div align="center">
 
-### ⚔️ Lenguajes
+###  Lenguajes
 ![Node.js](https://img.shields.io/badge/Node.js-%2300ffcc.svg?style=for-the-badge&logo=node.js&logoColor=0d1117)
 ![Python](https://img.shields.io/badge/Python-%2300ffcc.svg?style=for-the-badge&logo=python&logoColor=0d1117)
 ![C](https://img.shields.io/badge/C-%2300ffcc.svg?style=for-the-badge&logo=c&logoColor=0d1117)
 ![C++](https://img.shields.io/badge/C++-%2300ffcc.svg?style=for-the-badge&logo=c%2B%2B&logoColor=0d1117)
 
-### 🛡️ Infraestructura & DevOps
+###  Infraestructura & DevOps
 ![Linux](https://img.shields.io/badge/Linux-%23a78bfa.svg?style=for-the-badge&logo=linux&logoColor=0d1117)
 ![Docker](https://img.shields.io/badge/Docker-%23a78bfa.svg?style=for-the-badge&logo=docker&logoColor=0d1117)
 ![AWS](https://img.shields.io/badge/AWS-%23a78bfa.svg?style=for-the-badge&logo=amazon-aws&logoColor=0d1117)
 
-### 🗄️ Bases de Datos
+###  Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23ff6b9d.svg?style=for-the-badge&logo=postgresql&logoColor=0d1117)
 ![MySQL](https://img.shields.io/badge/MySQL-%23ff6b9d.svg?style=for-the-badge&logo=mysql&logoColor=0d1117)
 
-### 🔧 Herramientas
+###  Herramientas
 ![Git](https://img.shields.io/badge/Git-%23f97316.svg?style=for-the-badge&logo=git&logoColor=0d1117)
 ![GitHub](https://img.shields.io/badge/GitHub-%23f97316.svg?style=for-the-badge&logo=github&logoColor=0d1117)
 ![VSCode](https://img.shields.io/badge/VSCode-%23f97316.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0d1117)
@@ -59,7 +59,7 @@ player = {
 
 ---
 
-## 🏆 `QUEST LOG — PROYECTOS`
+##  `PROYECTOS`
 
 <table>
 <tr>
