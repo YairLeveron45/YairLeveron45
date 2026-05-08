@@ -65,52 +65,72 @@ player = {
 <tr>
 <td width="50%" valign="top">
 
-### 📦 Sistema de Paquetería
+### 🏗️ Social_Estructura
 > *Misión completada ✅*
 
-App tipo Forza con arquitectura **MVC** y flujo colaborativo en GitHub.
+Proyecto de estructuras de datos sociales implementado en C++.
 
-![Node.js](https://img.shields.io/badge/Node.js-00ffcc?style=flat-square&logoColor=0d1117)
-![MVC](https://img.shields.io/badge/MVC-00ffcc?style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-00ffcc?style=flat-square)
+[![Repo](https://img.shields.io/badge/Ver_Repo-%2300ffcc?style=flat-square&logo=github&logoColor=0d1117)](https://github.com/YairLeveron45/Social_Estructure)
+![C++](https://img.shields.io/badge/C++-00ffcc?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏨 Sistema de Reservas
+### 🍒 VLangCherry
 > *Misión completada ✅*
 
-Plataforma tipo Trivago para gestión de hoteles, reservas y usuarios.
+Proyecto de Organización de Lenguajes y Compiladores 2 — implementado en Go.
 
-![Backend](https://img.shields.io/badge/Backend-a78bfa?style=flat-square)
-![REST API](https://img.shields.io/badge/REST_API-a78bfa?style=flat-square)
-![DB](https://img.shields.io/badge/DB-a78bfa?style=flat-square)
+[![Repo](https://img.shields.io/badge/Ver_Repo-%23a78bfa?style=flat-square&logo=github&logoColor=0d1117)](https://github.com/YairLeveron45/VLangCherry)
+![Go](https://img.shields.io/badge/Go-a78bfa?style=flat-square)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🐧 Linux Kernel Syscalls
-> *Modo experto 🔥*
+### 🛒 Punto de Venta
+> *Misión completada ✅*
 
-Syscalls personalizadas y daemon de monitoreo a nivel de kernel en Linux.
+Sistema de punto de venta desarrollado con JavaScript.
 
-![C](https://img.shields.io/badge/C-ff6b9d?style=flat-square)
-![Kernel](https://img.shields.io/badge/Linux_Kernel-ff6b9d?style=flat-square)
-![Daemons](https://img.shields.io/badge/Daemons-ff6b9d?style=flat-square)
+[![Repo](https://img.shields.io/badge/Ver_Repo-%23ff6b9d?style=flat-square&logo=github&logoColor=0d1117)](https://github.com/YairLeveron45/Punto_de_Venta)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff6b9d?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-### ☁️ Infraestructura AWS
-> *En producción 🚀*
+### 📊 Proyecto1 2024 RuntimeRebels
+> *Misión completada ✅*
 
-Deploy con S3, RDS, Load Balancer y Docker. Arquitectura cloud lista para escalar.
+Proyecto colaborativo con análisis de datos usando Jupyter Notebook.
 
-![AWS](https://img.shields.io/badge/AWS-f97316?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-f97316?style=flat-square)
-![RDS](https://img.shields.io/badge/RDS-f97316?style=flat-square)
+[![Repo](https://img.shields.io/badge/Ver_Repo-%23f97316?style=flat-square&logo=github&logoColor=0d1117)](https://github.com/YairLeveron45/Proyecto1_2024_RuntimeRebels)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-f97316?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ AYD2 Proyecto G13
+> *En progreso 🔥*
+
+Proyecto de Análisis y Diseño 2 — semestre 2025, desarrollado en TypeScript.
+
+[![Repo](https://img.shields.io/badge/Ver_Repo-%2300ffcc?style=flat-square&logo=github&logoColor=0d1117)](https://github.com/Ggi0/AYD2_B_2S2025_PROYECTO_G13)
+![TypeScript](https://img.shields.io/badge/TypeScript-00ffcc?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Seminario1 G8
+> *En progreso 🔥*
+
+Proyecto de Seminario 1 — semestre 2026, desarrollado en JavaScript.
+
+[![Repo](https://img.shields.io/badge/Ver_Repo-%23a78bfa?style=flat-square&logo=github&logoColor=0d1117)](https://github.com/Ggi0/SEMINARIO1_A_1S2026_G8)
+![JavaScript](https://img.shields.io/badge/JavaScript-a78bfa?style=flat-square)
 
 </td>
 </tr>
