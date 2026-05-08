@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yair%20Leveron&fontSize=50&fontColor=00ffcc&fontAlignY=38&desc=Backend%20Developer%20%7C%20Linux%20%7C%20Cloud&descAlignY=58&descColor=a78bfa)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=_+Backend+Developer+%5BONLINE%5D;_+Linux+Kernel+Hacker+%5BACTIVE%5D;_+AWS+%26+Docker+Engineer+%5BDEPLOYED%5D;_+Always+Learning+%5BLEVEL+UP%5D" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=_+Backend+Developer+%5BONLINE%5D;_+Always+Learning+%5BLEVEL+UP%5D" />
 
 ![](https://komarev.com/ghpvc/?username=YairLeveron45&color=00ffcc&style=flat-square&label=PROFILE+VIEWS)
 
@@ -20,8 +20,8 @@ player = {
     "clase"      : "Backend Developer",
     "nivel"      : "Ingeniería en Sistemas",
     "ubicación"  : "Guatemala 🇬🇹",
-    "habilidades": ["Backend", "Linux Kernel", "Cloud", "APIs REST", "Automatización"],
-    "estado"     : "⚡ Siempre aprendiendo, siempre construyendo"
+    "habilidades": ["Backend", "Cloud", "APIs REST", "Automatización"],
+    "estado"     : "⚡ Siempre aprendiendo"
 }
 ```
 
