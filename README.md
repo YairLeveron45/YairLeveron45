@@ -32,9 +32,10 @@ Implementación de syscalls personalizadas y daemon de monitoreo en Linux.
 
 ## 📫 Contacto
 
-- LinkedIn: www.linkedin.com/in/estiben-yair-lopez-leveron-207724145
+- LinkedIn: [Estiben Yair López Leveron](https://www.linkedin.com/in/estiben-yair-lopez-leveron-207724145/)
 - Correo: Yahirlopez380@gmail.com
 
+---
 
 ## 🐍 Snake Animation
 
