@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yair%20Leveron&fontSize=50&fontColor=00ffcc&fontAlignY=38&desc=Backend%20Developer%20%7C%20Linux%20%7C%20Cloud&descAlignY=58&descColor=a78bfa)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yair%20Leveron&fontSize=50&fontColor=00ffcc&fontAlignY=38&desc=Backend%20Developer%20%)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=_+Backend+Developer+%5BONLINE%5D;_+Always+Learning+%5BLEVEL+UP%5D" />
 
@@ -40,7 +40,6 @@ player = {
 ![C++](https://img.shields.io/badge/C++-%2300ffcc.svg?style=for-the-badge&logo=c%2B%2B&logoColor=0d1117)
 
 ### 🛡️ Infraestructura & DevOps
-![Linux](https://img.shields.io/badge/Linux-%23a78bfa.svg?style=for-the-badge&logo=linux&logoColor=0d1117)
 ![Docker](https://img.shields.io/badge/Docker-%23a78bfa.svg?style=for-the-badge&logo=docker&logoColor=0d1117)
 ![AWS](https://img.shields.io/badge/AWS-%23a78bfa.svg?style=for-the-badge&logo=amazon-aws&logoColor=0d1117)
 
